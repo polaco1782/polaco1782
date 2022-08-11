@@ -1,5 +1,7 @@
 ### HELLO WORLD! 👋
 
+Welcome to my repository, here there is some code I wrote/forked/modified, public stuff
+
 <!--
 **polaco1782/polaco1782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
